@@ -10,6 +10,10 @@ const images = [
     {
         src: "gal3.png",
         caption: "rocket launch"
+    },
+    {
+        src: "gal4.png",
+        caption: "earth view"
     }
 ];
 

@@ -1,5 +1,5 @@
 # Ex.07 Design of Interactive Image Gallery
-## Date:
+## Date:26-12-2025
 
 ## AIM:
 To design a web application for an inteactive image gallery for a minimum five images with next and previous buttons.
@@ -73,6 +73,10 @@ const images = [
     {
         src: "gal3.png",
         caption: "rocket launch"
+    },
+    {
+        src:"gal4.png",
+        caption:"rocket launch"
     }
 ];
 
@@ -170,9 +174,9 @@ footer {
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot 2025-12-26 105831.png>)
-![alt text](<Screenshot 2025-12-26 105849.png>)
- ![alt text](<Screenshot 2025-12-26 105857.png>)
-
+![alt text](<Screenshot 2025-12-27 082427.png>)
+![alt text](<Screenshot 2025-12-27 082443.png>)
+![alt text](<Screenshot 2025-12-27 082809.png>)
+ ![alt text](<Screenshot 2025-12-27 082456.png>)
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
